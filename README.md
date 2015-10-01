@@ -1,5 +1,4 @@
-GFWList2PAC
-By TonyStark
+GFWList2PAC By TonyStark
 ===========
 
 [![PyPI version]][PyPI]
