@@ -1,5 +1,6 @@
-GFWList2PAC By TonyStark
+GFWList2PAC
 ===========
+ add by TonyStark
 
 [![PyPI version]][PyPI]
 [![Build Status]][Travis CI]
