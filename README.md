@@ -1,4 +1,5 @@
 GFWList2PAC
+By TonyStark
 ===========
 
 [![PyPI version]][PyPI]
